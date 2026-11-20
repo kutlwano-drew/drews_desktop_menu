@@ -1,9 +1,8 @@
 name: drews_desktop_menu
 description: A flexible, desktop-first Flutter app bar and cascading menu system with hover, click, mouse, focus, and configurable keyboard interaction.
 version: 0.1.0
-repository: https://github.com/YOUR_GITHUB_USERNAME/drews_desktop_menu
-homepage: https://github.com/YOUR_GITHUB_USERNAME/drews_desktop_menu
-issue_tracker: https://github.com/YOUR_GITHUB_USERNAME/drews_desktop_menu/issues
+repository: https://github.com/kutlwano-drew/drews_desktop_menu
+homepage: https://drewspackages.web.app/
 topics:
   - flutter
   - desktop
